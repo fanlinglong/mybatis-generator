@@ -13,7 +13,7 @@
 
     <groupId>io.github.fanlinglonghub</groupId>
     <artifactId>mybatis-generator</artifactId>
-    <version>0.0.1-snapshot</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>mybatis-full-generator</name>
